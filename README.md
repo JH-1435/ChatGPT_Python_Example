@@ -7,8 +7,8 @@
 
 3. 주민등록번호 마스킹 처리: https://github.com/JH-1435/ChatGPT_Python_Example/blob/master/excel_rrn_masking.ipynb
 
-4. PPT 파일 안에 이름 변경: https://github.com/JH-1435/ChatGPT_Python_Example/blob/master/ppt_name_tag_name_change_ipynbt.ipynb
+4. PPT 파일 내 이름 변경: https://github.com/JH-1435/ChatGPT_Python_Example/blob/master/ppt_name_tag_name_change_ipynbt.ipynb
 
-5. Word 파일 안에 이름 변경: https://github.com/JH-1435/ChatGPT_Python_Example/blob/master/word_certificate_name_change.ipynb
+5. Word 파일 내 이름 변경: https://github.com/JH-1435/ChatGPT_Python_Example/blob/master/word_certificate_name_change.ipynb
 
 6. 네이버 뉴스 제목 크롤링: https://github.com/JH-1435/ChatGPT_Python_Example/blob/master/naver_crawling_example_1.ipynb
